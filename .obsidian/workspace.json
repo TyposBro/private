@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "465ff32be63af6d4",
+        "id": "b7425402563fa6cb",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2b08985448c0d6",
+            "id": "6748fb10beeba2e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT, LLM instructions.md",
+                "file": "Korea/South Korea Visa Pathways.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT, LLM instructions"
+              "title": "South Korea Visa Pathways"
             }
           }
         ],
@@ -207,44 +207,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea2b08985448c0d6",
+  "active": "6748fb10beeba2e2",
   "lastOpenFiles": [
-    "Credits, Obsidian Setup Tutorials.md",
     "TODO.md",
+    "Credits, Obsidian Setup Tutorials.md",
+    "🇰🇷 Korean.md",
+    "Vision for FeelFlow.md",
+    "Spiko Architecture.md",
+    "💻 Coding.md",
+    "💻 Coding/Computer Systems Programmer's Perspective.md",
+    "💻 Coding/LeetCode Cheat Sheet.md",
+    "💻 Coding/DSA in Java.md",
+    "MUZI CREDITS.md",
+    "ChatGPT, LLM instructions.md",
+    "stonelab/smart_notification/proposal.md",
+    "stonelab/smart_notification/2. Survey on Mental Health Apps.md",
+    "stonelab/smart_notification/5. Metamo - Empowering Large Language Models with Psychological Distortion Detection for Cognition-aware Coaching.md",
+    "stonelab/smart_notification/6. ITAIs in Mobile Health.md",
+    "stonelab/smart_notification/7. Micro-randomized trials.md",
+    "stonelab/smart_notification/Apps for Mental Health.md",
+    "stonelab/smart_notification/4. MindShift - Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention.md",
+    "stonelab/smart_notification/3. NotiMind - Utilizing Responses to Smart Phone Notifications as Affective Sensors.md",
+    "stonelab/llm_imrovement/Ethical Risks and Market Realities of LLM Counselors.md",
+    "stonelab/llm_imrovement",
+    "stonelab/smart_notification",
+    "Untitled.base",
+    "stonelab/FeelFlow V2.md",
+    "Untitled 1.base",
     "Korea/South Korea Visa Pathways.md",
     "Korea",
-    "Notification MVP/Ethical Risks and Market Realities of LLM Counselors.md",
-    "Notification MVP",
-    "💻 Coding/DSA in Java.md",
+    "stonelab",
     "💻 Coding/JavaScript.md",
     "💻 Coding/Kotlin.md",
     "💻 Coding/Learning/Learning.md",
     "💻 Coding/Learning/NixOS.md",
-    "💻 Coding/Learning/NextJS.md",
-    "💻 Coding/FOSS/FOSS.md",
-    "💻 Coding/💻 Coding.md",
-    "💻 Coding/Projects/Projects.md",
-    "🇰🇷 Korean.md",
-    "🧑‍💻 Job/🧑‍💻 Job.md",
-    "ChatGPT, LLM instructions.md",
-    "2025-01-09.md",
-    "TOPIK1.md",
-    "README.md",
-    "FeelFlow-V2-with-DOIs.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "서울대 한국어/Level 1/A/Lesson 0 (Optional).md",
-    "FeelFlow-V2 Circadian Alignment Platform.md",
-    "서울대 한국어/Level 1/B/1B-L16.md",
-    "서울대 한국어/Level 1/B/1B-L15.md",
-    "서울대 한국어/Level 1/A/Lesson 8.md",
     "Untitled.canvas",
     "서울대 한국어/Level 6/B",
     "서울대 한국어/Level 6/A",
     "서울대 한국어/Level 5/B",
     "서울대 한국어/Level 5/A",
-    "서울대 한국어/Level 4/B",
-    "서울대 한국어/Level 4/A",
     "Untitled 1.canvas"
   ]
 }

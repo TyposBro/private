@@ -1,4 +1,4 @@
- [Hack your brain with Obsidian.md](https://www.youtube.com/watch?v=DbsAQSIKQXk)
+[Hack your brain with Obsidian.md](https://www.youtube.com/watch?v=DbsAQSIKQXk)
 
 [PRODUCTIVELY Learning New Things Using Obsidian](https://www.youtube.com/watch?v=DwSNZEW6jCU)
 
